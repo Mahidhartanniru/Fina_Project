@@ -84,5 +84,4 @@ for order in order_list:
                      (order_id, item_id))
 
 
-conn.commit()
-conn.close()
+
