@@ -83,5 +83,6 @@ for order in order_list:
         curr.execute("INSERT INTO order_list (order_id, item_id) VALUES (?, ?);", 
                      (order_id, item_id))
 
-
+conn.commit()
+conn.close()
 
