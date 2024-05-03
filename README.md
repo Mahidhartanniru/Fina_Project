@@ -1,3 +1,5 @@
+##Final_Project
+
 FastAPI SQLite Integration
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) API using FastAPI framework with SQLite database integration. It allows managing customers, items, and orders.
 
