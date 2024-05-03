@@ -314,6 +314,5 @@ async def delete_order(order_id: int):
 
     finally:
         # Close the connection (using async context manager)
-        await conn.close()
-
+        await 
 
