@@ -47,7 +47,7 @@ Follow these steps to execute the project:
     - Open your web browser and navigate to `http://127.0.0.1:8000/docs`.
     - Here, you can explore and interact with the API endpoints using the Swagger UI.
 
-### API Endpoints
+### API Endpoints 
 
 #### Customers:
 - **POST /customers/:** Create customer.
